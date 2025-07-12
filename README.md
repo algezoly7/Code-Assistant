@@ -10,4 +10,4 @@ SingularityNET is a decentralized, blockchain-based platform that allows anyone 
 We begin by defining a <b>.proto</b> file, which specifies the structure of the data and facilitates communication between servers and clients across different programming languages. 
 The server is implemented in Google-Cloud it's coded in python, it listens at a specific address and its job is to connect the client to our code completion service in AWS. The client is coded as a part of the marketplace code. 
 We use JavaScript for its coding, and you can see the code in the component directory. The OnBoarding process also involves posting the service metadata to the block chain including the address where of the server.</p>
-<p>You can check the service publication here <a href="https://agix-marketplace.singularitynet.io/servicedetails/org/EnigmaAi/service/CodeAssistantID/tab/0">here</a></p>
+<p>You can check the service publication <a href="https://agix-marketplace.singularitynet.io/servicedetails/org/EnigmaAi/service/CodeAssistantID/tab/0">here</a></p>
